@@ -1,3 +1,3 @@
 <h1>SENAI---TÉCNICO DE INFORMÁTICA PARA INTERNET---</h1>
-<p></p>
+<p aling="Center">OI</p>
 <h2>OIOIOIOIOI</h2>
